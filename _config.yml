@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "SinaMP"
-  avatar           : "/images/me.jpg"
-  bio              : "Senior Bachelor Student at Amirkabir University of Technology"
-  location         : "Tehran"
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "sinamahdipour@yahoo.com" "sinamahdipour@aut.ac.ir"
+  email            :
   uri              :
   bitbucket        :
   codepen          :
@@ -94,10 +94,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sinamahdipour"
+  github           : "academicpages"
   google_plus      :
   keybase          :
-  instagram        : 
+  instagram        :
   lastfm           :
   linkedin         :
   orcid            : "http://orcid.org/yourorcidurl"
@@ -178,7 +178,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
     output: true
@@ -304,4 +304,4 @@ tag_archive:
 compress_html:
   clippings: all
   ignore:
-    envs: development
+envs: development
