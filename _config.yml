@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Sina Mahdipour Saravani"
   avatar           : "me.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Senior Bachelor Student at Amirkabir University of Technology"
+  location         : "Tehran, Iran"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "sinamahdipour@yahoo.com" "sinamahdipour@aut.ac.ir"
   uri              :
   bitbucket        :
   codepen          :
@@ -178,7 +178,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
