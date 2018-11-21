@@ -10,53 +10,63 @@ author_profile: true
 
 My Projects page.
 
-Education
+Projects Relevant to My Fields of Interest
 ======
-* B.S. in Computer Engineering, Amirkabir University of Technology, 2014-2019
+* Persian Short-Text Classification (NN ver.)
+  * Venue: [CommentMiner](http://commentminer.com/)
+  * Description: Implemented using a CNN network to extract the features from embedded presentation vectors of Persian text and a MLP network to classify them, on different datasets: Quiz of King's questions, Instagram comments about a persian series, (Python).
 
-Fields of Interest
-======
-* Deep Learning, Machine Learning
-* Natural Language Processing, Computer Vision
-  * Description: 
+* Multithreaded Persian Short-Text Classification
+  * Venue: [CommentMiner](http://commentminer.com/)
+  * Description: Implemented using two different algorithms: MaxEnt and Naive Bayes, on the datasets mentioned above with the accuracy of 70%, (Java).
 
-Research experience
-======
-* 2017-2018: Research Assistant and AI Developer
-  * CommentMiner, Sharif University of Technology, Tehran, Iran
-  * Description: CommentMiner is a start-up working on a set of text analyzing services and intelligent chat bots. I spent one year there on research on different NLP tasks like dialogue systems, topic classification, profanity detection, NER, sentiment analysis, etc.
-  * Supervisor: Mr. Ahmad Asadi, Dr. Mohammad Hadi Bokaei, Prof. Mohammad Mehdi Homayounpour
+* Template Matching
+  * Venue: Dept. of Computer Engineering and Information Technology, Amirkabir University of Technology
+  * Description: Implemented using both OpenMP and CUDA to parallelize the algorithm and to enhance the performance, (C, C++).
 
-* Fall 2017: Research Assistant
-  * Sharif University of Technology
-  * Topic: Key-phrase Extraction on Persian Documents
-  * Description: Literature review was carried out on KP-Miner, TF-IDF, WINGNUS, Single Rank, KEA, Topic Rank and Salience Rank methods. We used Inspec and 500N datasets to test these methods and then worked on Salience Rank model on a Persian news dataset.
-  * Supervisor: Dr. Mohammad Hadi Bokaei
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Hand-written Digit Image Generation
+  * Venue: Dept. of Biomedical Engineering, Amirkabir University of Technology
+  * Description: Implemented using a simple Generative Adversarial Network on MNIST dataset, (Python Keras package).
 
-Publications
+* Hand-written Digit Image Classification
+  * Venue: [CommentMiner](http://commentminer.com/)
+  * Description: Implemented using a Convolutional Neural Network on MNIST dataset, (Python Tensorflow package).
+
+* Sequential MNIST Classification
+  * Venue: Deep Learning Summer School at [University of Tehran](http://ut.ac.ir/en)
+  * Description: Implemented using a Recurrent Neural Network on sequential images (28 sequences) of MNIST dataset, (Python Keras package).
+
+Other Projects
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Python:
+  * Multilayer Perceptron classifier with back propagation using pure python to classify 3 types of seeds
+  * DES, Triple-DES and MD5 Hash and Encryption Program
+* Java:
+  * Re-implemenation of [Robokill Game](https://www.crazygames.com/game/robokill-2)<br/><img src='/images/robokill.jpg'>
+  * Internet Messanger (with GUI design)
+  * Internet Browser with the support for PHP and CSS using Jx library
+  * Notes Manager
+  * Tank Game (two tanks attacking each other)
+  * Sudoku Solver
+  * Box Stacking Problem Solver
+  * Thief and Cops Game (console)
+  * Insertion Sort, Heap Sort, Quick Sort, Merge Sort
+  * N-equation Solver
+* C/C++/C#:
+  * OpenMp merge sort
+  * CUDA matrix multiplication
+  * CUDA prefix sum
+  * 2048 game (console)
+  * Game of Life (console)
+* VHDL and Verilog:
+  * Codesign: Implementation of some state machines on PS-PL systems by designing them using Zybo boards and Zynq processors
+  * Basic Computer including Cache, T/D flip-flop, MUX, Adder/Subtractor, Multiplier, RAM, ALU
+  * Number-guess Game
+* Assembly and Microprocessor:
+  * Projects using ATmega micro controllers and different sensors and modules like wifi, temperature sensor and LCD in addition to designing PCBs
+* Web:
+  * Re-implementation of [IranFilms](https://iranfilms.org/) that is a website for introducing and reviewing movies
+
+
+
+
