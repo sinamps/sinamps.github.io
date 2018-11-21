@@ -11,7 +11,7 @@ author_profile: true
 Projects Relevant to My Fields of Interest
 ------
 * Persian Short-Text Classification (NN ver.)
-  * Venue: <div color = blue>[CommentMiner](http://commentminer.com/)</div>
+  * Venue: [CommentMiner](http://commentminer.com/)
   * Description: Implemented using a CNN network to extract the features from embedded presentation vectors of Persian text and a MLP network to classify them, on different datasets: Quiz of King's questions, Instagram comments about a persian series, (Python).
 
 * Multithreaded Persian Short-Text Classification
