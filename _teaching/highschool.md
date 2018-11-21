@@ -4,7 +4,7 @@ collection: teaching
 type: "Highschool courses"
 permalink: /teaching/highschool
 venue: "Samii Highschool"
-date: Fall 2013
+date: 2013-09-01
 location: "Rasht, Iran"
 ---
 
