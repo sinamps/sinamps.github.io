@@ -85,7 +85,7 @@ author:
   bio              : "Senior Bachelor Student at Amirkabir University of Technology"
   location         : "Tehran, Iran"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+#  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "sinamahdipour@yahoo.com"
   uri              :
   bitbucket        :
@@ -94,13 +94,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sinamahdipour"
+#  github           : "sinamahdipour"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "sinamahdipour"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://ir.linkedin.com/in/sina-mahdipour-74682686"
+#  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

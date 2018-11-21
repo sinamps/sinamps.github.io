@@ -19,7 +19,7 @@ Fields of Interest
 ======
 * Deep Learning, Machine Learning
 * Natural Language Processing, Computer Vision
-  * Description: 
+<br>Description: I am interested in working on the applications of deep learning in NLP (especially intelligent chat bots and text generation) and Computer Vision in addition to the theoretical topics and problems concerning deep learning. I am also curious about self-supervised networks, knowledge transfer and adversarial networks.
 
 Research experience
 ======
