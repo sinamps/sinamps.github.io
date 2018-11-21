@@ -42,7 +42,7 @@ Other Projects
 * Java:
   * Re-implemenation of [Robokill Game](https://www.crazygames.com/game/robokill-2)<br/><img src='/images/robokill.jpg'>
   * Internet Messanger (with GUI design)
-  * Internet Browser with the support for PHP and CSS using Jx library
+  * Internet Browser with the support for PHP and CSS using JxBrowser library
   * Notes Manager
   * Tank Game (two tanks attacking each other)
   * Sudoku Solver
