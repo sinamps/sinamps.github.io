@@ -8,12 +8,10 @@ author_profile: true
 {% include base_path %}
 
 
-My Projects page.
-
 Projects Relevant to My Fields of Interest
-======
+------
 * Persian Short-Text Classification (NN ver.)
-  * Venue: [CommentMiner](http://commentminer.com/)
+  * Venue: <div color = blue>[CommentMiner](http://commentminer.com/)</div>
   * Description: Implemented using a CNN network to extract the features from embedded presentation vectors of Persian text and a MLP network to classify them, on different datasets: Quiz of King's questions, Instagram comments about a persian series, (Python).
 
 * Multithreaded Persian Short-Text Classification
@@ -37,7 +35,7 @@ Projects Relevant to My Fields of Interest
   * Description: Implemented using a Recurrent Neural Network on sequential images (28 sequences) of MNIST dataset, (Python Keras package).
 
 Other Projects
-======
+------
 * Python:
   * Multilayer Perceptron classifier with back propagation using pure python to classify 3 types of seeds
   * DES, Triple-DES and MD5 Hash and Encryption Program
@@ -53,10 +51,10 @@ Other Projects
   * Insertion Sort, Heap Sort, Quick Sort, Merge Sort
   * N-equation Solver
 * C/C++/C#:
-  * OpenMp merge sort
-  * CUDA matrix multiplication
-  * CUDA prefix sum
-  * 2048 game (console)
+  * OpenMp Merge Sort
+  * CUDA Matrix Multiplication
+  * CUDA Prefix Sum
+  * 2048 Game (console)
   * Game of Life (console)
 * VHDL and Verilog:
   * Codesign: Implementation of some state machines on PS-PL systems by designing them using Zybo boards and Zynq processors
