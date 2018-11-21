@@ -1,15 +1,14 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Projects"
+permalink: /projects/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
 
-[The PDF version of my CV is available here.](https://sinamahdipour.github.io/files/CV_Sina_Mahdipour)
+
+My Projects page.
 
 Education
 ======
