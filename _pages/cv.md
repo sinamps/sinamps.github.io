@@ -26,14 +26,26 @@ Research experience
 * 2017-2018: Research Assistant and AI Developer
   * CommentMiner, Sharif University of Technology, Tehran, Iran
   * Description: CommentMiner is a start-up working on a set of text analyzing services and intelligent chat bots. I spent one year there on research on different NLP tasks like dialogue systems, topic classification, profanity detection, NER, sentiment analysis, etc.
-  * Supervisor: Mr. Ahmad Asadi, Dr. Mohammad Hadi Bokaei, Prof. Mohammad Mehdi Homayounpour
+  * Supervisor: [Mr. Ahmad Asadi](http://ceit.aut.ac.ir/~asadi/), [Dr. Mohammad Hadi Bokaei](http://ce.sharif.edu/~bokaei/), [Prof. Mohammad Mehdi Homayounpour](http://www.aut.ac.ir/official/main.asp?uid=homayoun)
 
 * Fall 2017: Research Assistant
   * Sharif University of Technology
   * Topic: Key-phrase Extraction on Persian Documents
   * Description: Literature review was carried out on KP-Miner, TF-IDF, WINGNUS, Single Rank, KEA, Topic Rank and Salience Rank methods. We used Inspec and 500N datasets to test these methods and then worked on Salience Rank model on a Persian news dataset.
-  * Supervisor: Dr. Mohammad Hadi Bokaei
+  * Supervisor: [Dr. Mohammad Hadi Bokaei](http://ce.sharif.edu/~bokaei/)
   
+Honors and Awards
+======
+* _Top 50 start-ups_ in [GITEX](https://www.gitex.com/), Dubai, 2017 ([CommentMiner](http://www.commentminer.ir/))
+* _Third place_ in [ElecomStars](http://elecom-stars.com/), Tehran, 2017 ([CommentMiner](http://www.commentminer.ir/))
+* _Firs place_ in [Sharif VC Cup](http://sharifvccup.ir/), [Sharif University of Technology](http://www.en.sharif.edu/), Tehran, 2017 ([CommentMiner](http://www.commentminer.ir/))
+* Certificate of Attendance at _Deep Learning Summer School_ from [Association for Computing Machinery (ACM) of University of Tehran](http://acm.ut.ac.ir/acm), 2018
+* Member of [Scientific Association and Olympiad Affairs](http://sao-aut.ir/?lang=en) of [Amirkabir University of Technology](http://aut.ac.ir/aut/), 2015
+* Ranked in top _0.2_% place among all applicants for the University Entrance Nationwide Exam (Approximately _230000_ applicants) in Math. and Eng., Iran, 2014
+* Ranked in top _0.09_% place among all applicants for the University Entrance Nationwide Exam (Approximately _129000_ applicants) in Foreign Languages (English), Iran, 2014
+* Admitted to participate in Association of Young Mathematicians, 2008
+* Grade point average _20_/20 during the whole 12 years of pre-university education.
+
 Skills
 ======
 * Skill 1
@@ -43,11 +55,24 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Programming:
+  * Expert in: Java, Python, C, C#, VHDL
+  * Familiar with: Verilog, Assembly, .NET, Android
+* Toolkits: TensorFlow, MALLET, Keras, OpenMP, CUDA, Stanford NLP, polyglot, NLTK
+* Web Programming:
+  * Familiar with: HTML, CSS, JavaScript, JQuery, NodeJS
+* Circuits, Simulation and Engineering Software}: Matlab, PSpice, HSpice, Xilinx ISE, Model Sim SE, Xilinx Vivado, Design Vision, Quartus, Altium Designer, CodeVision, Atmel Studio, Proteus
+* Scripting: Bash, Matlab
+* IDEs: Microsoft Visual Studio, IntelliJ IDEA, PyCharm, Code::Blocks, NetBeans, Eclipse, Android Studio	
+* Operating System: Linux, Windows, Android, iOS
+* Others: Adobe InDesign, Adobe Photoshop, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Latex, Docker
+
+
+#Publications
+#======
+#  <ul>{% for post in site.publications %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
 Talks
 ======
