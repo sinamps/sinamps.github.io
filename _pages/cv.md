@@ -9,23 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF version of my CV is available here.](https://sinamahdipour.github.io/files/CV_Sina_Mahdipour)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Engineering, Amirkabir University of Technology, 2014-2019
 
-Work experience
+Fields of Interest
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Deep Learning, Machine Learning
+* Natural Language Processing, Computer Vision
+  * Description: 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research experience
+======
+* 2017-2018: Research Assistant and AI Developer
+  * CommentMiner, Sharif University of Technology, Tehran, Iran
+  * Description: CommentMiner is a start-up working on a set of text analyzing services and intelligent chat bots. I spent one year there on research on different NLP tasks like dialogue systems, topic classification, profanity detection, NER, sentiment analysis, etc.
+  * Supervisor: Mr. Ahmad Asadi, Dr. Mohammad Hadi Bokaei, Prof. Mohammad Mehdi Homayounpour
+
+* Fall 2017: Research Assistant
+  * Sharif University of Technology
+  * Topic: Key-phrase Extraction on Persian Documents
+  * Description: Literature review was carried out on KP-Miner, TF-IDF, WINGNUS, Single Rank, KEA, Topic Rank and Salience Rank methods. We used Inspec and 500N datasets to test these methods and then worked on Salience Rank model on a Persian news dataset.
+  * Supervisor: Dr. Mohammad Hadi Bokaei
   
 Skills
 ======
@@ -54,6 +61,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
