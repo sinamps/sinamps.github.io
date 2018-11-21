@@ -10,4 +10,4 @@ location: "Tehran, Iran"
 
 Based on Herve Abdi, "Linear Algebra for Neural Networks". School of Human Development, The University of Texas at Dallas.
 
-[Download PDF here](http://sinamahdipour.github.io/files/linearalgebra.pdf)
+<br>[Download PDF here](http://sinamahdipour.github.io/files/linearalgebra.pdf)

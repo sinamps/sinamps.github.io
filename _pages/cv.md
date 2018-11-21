@@ -47,11 +47,6 @@ Honors and Awards
 * Grade point average __20__/20 during all 12 years of pre-university education.
 
 
-#Publications
-#======
-#  <ul>{% for post in site.publications %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
   
 Talks
 ======
