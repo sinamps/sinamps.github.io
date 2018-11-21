@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Engineering, Amirkabir University of Technology, 2014-2019
+* B.S. in Computer Engineering, [Amirkabir University of Technology](http://aut.ac.ir/aut/), 2014-2019
 
 Fields of Interest
 ======
@@ -46,27 +46,6 @@ Honors and Awards
 * Admitted to participate in Association of Young Mathematicians, 2008
 * Grade point average _20_/20 during the whole 12 years of pre-university education.
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-* Programming:
-  * Expert in: Java, Python, C, C#, VHDL
-  * Familiar with: Verilog, Assembly, .NET, Android
-* Toolkits: TensorFlow, MALLET, Keras, OpenMP, CUDA, Stanford NLP, polyglot, NLTK
-* Web Programming:
-  * Familiar with: HTML, CSS, JavaScript, JQuery, NodeJS
-* Circuits, Simulation and Engineering Software}: Matlab, PSpice, HSpice, Xilinx ISE, Model Sim SE, Xilinx Vivado, Design Vision, Quartus, Altium Designer, CodeVision, Atmel Studio, Proteus
-* Scripting: Bash, Matlab
-* IDEs: Microsoft Visual Studio, IntelliJ IDEA, PyCharm, Code::Blocks, NetBeans, Eclipse, Android Studio	
-* Operating System: Linux, Windows, Android, iOS
-* Others: Adobe InDesign, Adobe Photoshop, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Latex, Docker
-
 
 #Publications
 #======
@@ -85,4 +64,31 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Skills
+======
+* Programming:
+  * Expert in: Java, Python, C, C#, VHDL
+  * Familiar with: Verilog, Assembly, .NET, Android
+* Toolkits: TensorFlow, MALLET, Keras, OpenMP, CUDA, Stanford NLP, polyglot, NLTK
+* Web Programming:
+  * Familiar with: HTML, CSS, JavaScript, JQuery, NodeJS
+* Circuits, Simulation and Engineering Software}: Matlab, PSpice, HSpice, Xilinx ISE, Model Sim SE, Xilinx Vivado, Design Vision, Quartus, Altium Designer, CodeVision, Atmel Studio, Proteus
+* Scripting: Bash, Matlab
+* IDEs: Microsoft Visual Studio, IntelliJ IDEA, PyCharm, Code::Blocks, NetBeans, Eclipse, Android Studio	
+* Operating System: Linux, Windows, Android, iOS
+* Others: Adobe InDesign, Adobe Photoshop, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Latex, Docker
+
+Extra-curricular Activities
+======
+* Inner-University Conductor of [TOSAN Innovation Challenge](http://www.tosanboom.ir/), 2015, [TOSAN](http://www.tosan.com/), [Amirkabir University of Technology](http://aut.ac.ir/aut/)
+  * TOSAN Innovation Challenge is a banking-service programming marathon.
+* Member of [Scientific Association and Olympiad Affairs](http://sao-aut.ir/?lang=en) of [Amirkabir University of Technology](http://aut.ac.ir/aut/), 2015
+* Conductor of 7th Linux Festival, 2015, [Amirkabir Linux Festival](http://www.linuxfest.ir/), Tehran, Iran 
+  * Linux Festival is a 2-day program with different presentations, contests and workshops about Linux.
+* Designer and Editor of Pouyesh Magazine , Amirkabir University of Technology
+  * Pouyesh is the student magazine of the guild council of the Computer Engineering Department of Amirkabir University of Technology. 
+* Member of Students Council of the Computer Engineering Department of Amirkabir University of Technology
+  * We hold different programs for different occasions like [Nowruz](https://en.wikipedia.org/wiki/Nowruz), [Yalda Night](https://en.wikipedia.org/wiki/Yald%C4%81_Night), etc.
+
+

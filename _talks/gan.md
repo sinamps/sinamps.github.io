@@ -10,4 +10,4 @@ location: "Tehran, Iran"
 
 Based on Ian J. Goodfellow et al., "Generative Adversarial Nets". (Department of Computer Science and Operations Research, University of Montreal), IJCA Journal, Vol. 119, Number 18, 2015.
 
-[Download slide here](http://sinamahdipour.github.io/files/GAN_presentation.pdf)
+[Download slides here](http://sinamahdipour.github.io/files/GAN_presentation.pdf)
