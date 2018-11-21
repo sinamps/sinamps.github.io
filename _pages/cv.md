@@ -36,15 +36,15 @@ Research experience
   
 Honors and Awards
 ======
-* _Top 50 start-ups_ in [GITEX](https://www.gitex.com/), Dubai, 2017 ([CommentMiner](http://www.commentminer.ir/))
-* _Third place_ in [ElecomStars](http://elecom-stars.com/), Tehran, 2017 ([CommentMiner](http://www.commentminer.ir/))
-* _Firs place_ in [Sharif VC Cup](http://sharifvccup.ir/), [Sharif University of Technology](http://www.en.sharif.edu/), Tehran, 2017 ([CommentMiner](http://www.commentminer.ir/))
-* Certificate of Attendance at _Deep Learning Summer School_ from [Association for Computing Machinery (ACM) of University of Tehran](http://acm.ut.ac.ir/acm), 2018
+* __Top 50 start-ups__ in [GITEX](https://www.gitex.com/), Dubai, 2017 ([CommentMiner](http://www.commentminer.ir/))
+* __Third place__ in [ElecomStars](http://elecom-stars.com/), Tehran, 2017 ([CommentMiner](http://www.commentminer.ir/))
+* __First place__ in [Sharif VC Cup](http://sharifvccup.ir/), [Sharif University of Technology](http://www.en.sharif.edu/), Tehran, 2017 ([CommentMiner](http://www.commentminer.ir/))
+* Certificate of Attendance at __Deep Learning Summer School__ from [Association for Computing Machinery (ACM) of University of Tehran](http://acm.ut.ac.ir/acm), 2018
 * Member of [Scientific Association and Olympiad Affairs](http://sao-aut.ir/?lang=en) of [Amirkabir University of Technology](http://aut.ac.ir/aut/), 2015
-* Ranked in top _0.2_% place among all applicants for the University Entrance Nationwide Exam (Approximately _230000_ applicants) in Math. and Eng., Iran, 2014
-* Ranked in top _0.09_% place among all applicants for the University Entrance Nationwide Exam (Approximately _129000_ applicants) in Foreign Languages (English), Iran, 2014
+* Ranked in top __0.2__% place among all applicants for the University Entrance Nationwide Exam (Approximately __230000__ applicants) in Math. and Eng., Iran, 2014
+* Ranked in top __0.09__% place among all applicants for the University Entrance Nationwide Exam (Approximately __129000__ applicants) in Foreign Languages (English), Iran, 2014
 * Admitted to participate in Association of Young Mathematicians, 2008
-* Grade point average _20_/20 during the whole 12 years of pre-university education.
+* Grade point average __20__/20 during all 12 years of pre-university education.
 
 
 #Publications
