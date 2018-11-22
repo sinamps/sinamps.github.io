@@ -68,7 +68,7 @@ Skills
 * Toolkits: TensorFlow, MALLET, Keras, OpenMP, CUDA, Stanford NLP, polyglot, NLTK
 * Web Programming:
   * Familiar with: HTML, CSS, JavaScript, JQuery, NodeJS
-* Circuits, Simulation and Engineering Software}: Matlab, PSpice, HSpice, Xilinx ISE, Model Sim SE, Xilinx Vivado, Design Vision, Quartus, Altium Designer, CodeVision, Atmel Studio, Proteus
+* Circuits, Simulation and Engineering Software: Matlab, PSpice, HSpice, Xilinx ISE, Model Sim SE, Xilinx Vivado, Design Vision, Quartus, Altium Designer, CodeVision, Atmel Studio, Proteus
 * Scripting: Bash, Matlab
 * IDEs: Microsoft Visual Studio, IntelliJ IDEA, PyCharm, Code::Blocks, NetBeans, Eclipse, Android Studio	
 * Operating System: Linux, Windows, Android, iOS
