@@ -18,7 +18,7 @@ Projects Relevant to My Fields of Interest
   * Venue: [CommentMiner](http://commentminer.com/)
   * Description: Implemented using two different algorithms: MaxEnt and Naive Bayes, on the datasets mentioned above with the accuracy of 70%, (Java).
 
-* Telegram Chat-bot for Atomatic Question Answering
+* Telegram Chat-bot for Automatic Question Answering
   * Venue: [CommentMiner](http://commentminer.com/)
   * Description: Implemented as a first and simple model using indexing and similarity checking on: [Who Is Hosting Who FAQ](https://www.whoishostingthis.com/resources/faq/) and on [Question-Answer Jokes](https://www.kaggle.com/jiriroz/qa-jokes), (C#).
 
