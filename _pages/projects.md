@@ -18,6 +18,10 @@ Projects Relevant to My Fields of Interest
   * Venue: [CommentMiner](http://commentminer.com/)
   * Description: Implemented using two different algorithms: MaxEnt and Naive Bayes, on the datasets mentioned above with the accuracy of 70%, (Java).
 
+* Telegram Chat-bot for Atomatic Question Answering
+  * Venue: [CommentMiner](http://commentminer.com/)
+  * Description: Implemented as a first and simple model using indexing and similarity checking on: [Who Is Hosting Who FAQ](https://www.whoishostingthis.com/resources/faq/) and on [Question-Answer Jokes](https://www.kaggle.com/jiriroz/qa-jokes), (C#).
+
 * Template Matching
   * Venue: [Dept. of Computer Engineering and Information Technology](http://ceit.aut.ac.ir/autcms/home.htm?depurl=computer-engineering&lang=en), [Amirkabir University of Technology](http://aut.ac.ir/aut/)
   * Description: Implemented using both OpenMP and CUDA to parallelize the algorithm and to enhance the performance, (C, C++).
@@ -33,6 +37,10 @@ Projects Relevant to My Fields of Interest
 * Sequential MNIST Classification
   * Venue: [Deep Learning Summer School](http://acm.ut.ac.ir/deeplearning/) at [University of Tehran](http://ut.ac.ir/en)
   * Description: Implemented using a Recurrent Neural Network on sequential images (28 sequences) of MNIST dataset, (Python Keras package).
+  
+* Persian Short-Text Sentiment Analysis
+  * Venue: [CommentMiner](http://commentminer.com/)
+  * Description: Implemented as a first model using two different algorithms: MaxEnt and Naive Bayes classification to positive, negative and neutral classes, on Instagram comments in [Irancell](https://irancell.ir/portal/home/?27092/Personal) page, (Java).
 
 Other Projects
 ------
