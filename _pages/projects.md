@@ -42,6 +42,10 @@ Projects Relevant to My Fields of Interest
   * Venue: [CommentMiner](http://commentminer.com/)
   * Description: Implemented as a first model using two different algorithms: MaxEnt and Naive Bayes classification to positive, negative and neutral classes, on Instagram comments in [Irancell](https://irancell.ir/portal/home/?27092/Personal) page, (Java).
 
+* A Genetic Soloution to Travelling Salesman Problem
+  * Venue: [Dept. of Biomedical Engineering](http://bme.aut.ac.ir/autcms/biomedical-engineering/en/home) , [Amirkabir University of Technology](http://aut.ac.ir/aut/)
+  * Description: Implemented as the course project to find the best route among 24 random cities, (Matlab).
+
 Other Projects
 ------
 * Python:
@@ -66,6 +70,9 @@ Other Projects
   * 2048 Game (console)
   * Game of Life (console)
   * [CommentMiner](http://commentminer.com/) Main System (in collaboration with other teammates)
+* Matlab:
+  * Multilayer Perceptron Neural Network to solve the XOR problem
+  * Simple Neural Network to learn to map a point in 3D vector space to the 2D Coordinate System
 * VHDL and Verilog:
   * Codesign: Implementation of some state machines on PS-PL systems by designing them using Zybo boards and Zynq processors
   * Basic Computer including Cache, T/D flip-flop, MUX, Adder/Subtractor, Multiplier, RAM, ALU
