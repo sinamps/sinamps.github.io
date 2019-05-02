@@ -19,7 +19,7 @@ Fields of Interest
 ======
 * Deep Learning, Machine Learning
 * Natural Language Processing, Computer Vision
-<br>Description: I am interested in working on the applications of deep learning in NLP (especially intelligent chat bots and text generation) and Computer Vision in addition to the theoretical topics and problems concerning deep learning. I am also curious about self-supervised networks, knowledge transfer and adversarial networks.
+<br>Description: I am interested in working on the applications of deep learning in NLP (especially intelligent chat bots and text generation) and Computer Vision (mostly medical applications) in addition to the theoretical topics and problems concerning machine learning. I am also curious about self-supervised networks, knowledge transfer and adversarial networks.
 
 Research experience
 ======
@@ -76,8 +76,6 @@ Skills
 
 Extra-curricular Activities
 ======
-* Inner-University Conductor of [TOSAN Innovation Challenge](http://www.tosanboom.ir/), 2015, [TOSAN](http://www.tosan.com/), [Amirkabir University of Technology](http://aut.ac.ir/aut/)
-  * TOSAN Innovation Challenge is a banking-service programming marathon.
 * Member of [Scientific Association and Olympiad Affairs](http://sao-aut.ir/?lang=en) of [Amirkabir University of Technology](http://aut.ac.ir/aut/), 2015
 * Conductor of 7th Linux Festival, 2015, [Amirkabir Linux Festival](http://www.linuxfest.ir/), Tehran, Iran 
   * Linux Festival is a 2-day program with different presentations, contests and workshops about Linux.
