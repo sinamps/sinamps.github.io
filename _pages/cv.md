@@ -26,7 +26,7 @@ Research experience
 * 2017-2018: Research Assistant and AI Developer
   * CommentMiner, Sharif University of Technology, Tehran, Iran
   * Description: CommentMiner is a start-up working on a set of text analyzing services and intelligent chat bots. I spent one year there on research on different NLP tasks like dialogue systems, topic classification, profanity detection, NER, sentiment analysis, etc.
-  * Supervisor: [Mr. Ahmad Asadi](http://ceit.aut.ac.ir/~asadi/), Adviser: [Dr. Mohammad Hadi Bokaei](http://ce.sharif.edu/~bokaei/), My Internship Mentor: [Prof. Mohammad Mehdi Homayounpour](http://www.aut.ac.ir/official/main.asp?uid=homayoun)
+  * Supervisor: [Mr. Ahmad Asadi](http://ceit.aut.ac.ir/~asadi/), Adviser: [Dr. Mohammad Hadi Bokaei](http://ce.sharif.edu/~bokaei/), My University's Internship Mentor: [Prof. Mohammad Mehdi Homayounpour](http://www.aut.ac.ir/official/main.asp?uid=homayoun)
 
 * Fall 2017: Project Research Assistant
   * Sharif University of Technology
