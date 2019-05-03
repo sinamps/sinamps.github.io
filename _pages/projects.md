@@ -68,13 +68,6 @@ Other Projects
   * 2048 Game (console)
   * Game of Life (console)
   * CommentMiner Main System (in collaboration with other teammates)
-* Matlab:
-  * Multilayer Perceptron Neural Network to solve the XOR problem
-  * Simple Neural Network to learn to map a point in 3D vector space to the 2D Coordinate System
-* VHDL and Verilog:
-  * Codesign: Implementation of some state machines on PS-PL systems by designing them using Zybo boards and Zynq processors
-  * Basic Computer including Cache, T/D flip-flop, MUX, Adder/Subtractor, Multiplier, RAM, ALU
-  * Number-guess Game
 * Web:
   * Re-implementation of [IranFilms](https://iranfilms.org/) that is a website for introducing and reviewing movies
 * PHP:
