@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior bachelor student of Computer Engineering at the [Department of Computer Engineering and Information Technology](http://ceit.aut.ac.ir/autcms/home.htm?depurl=computer-engineering&lang=en) of [Amirkabir University of Technology](http://aut.ac.ir/aut/) in Iran. Also, I was an NLP Research Assistant and AI Developer at [CommentMiner](http://commentminer.com/) (2017-2018).
+I am a senior bachelor student of Computer Engineering at the [Department of Computer Engineering and Information Technology](http://ceit.aut.ac.ir/autcms/home.htm?depurl=computer-engineering&lang=en) of [Amirkabir University of Technology](http://aut.ac.ir/aut/) in Iran. Also, I was an NLP Research Assistant and AI Developer at CommentMiner (2017-2018).
 
 I am interested in Natural Language Processing and Computer Vision. Specificly, I am curious about machine learning approaches to generate text of natural language and create computer programs that are able to chat with people. Some topics in Computer Vision are also intriguing to me: Medical applications like cancer detection and applications of GAN's in generating images.
