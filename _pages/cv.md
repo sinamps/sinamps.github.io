@@ -36,9 +36,9 @@ Research experience
   
 Honors and Awards
 ======
-* __Top 50 start-ups__ in [GITEX](https://www.gitex.com/), Dubai, 2017 ([CommentMiner](http://www.commentminer.ir/))
-* __Third place__ in [ElecomStars](http://elecom-stars.com/), Tehran, 2017 ([CommentMiner](http://www.commentminer.ir/))
-* __First place__ in [Sharif VC Cup](http://sharifvccup.ir/), [Sharif University of Technology](http://www.en.sharif.edu/), Tehran, 2017 ([CommentMiner](http://www.commentminer.ir/))
+* __Top 50 start-ups__ in [GITEX](https://www.gitex.com/), Dubai, 2017 (CommentMiner)
+* __Third place__ in [ElecomStars](http://elecom-stars.com/), Tehran, 2017 (CommentMiner)
+* __First place__ in [Sharif VC Cup](http://sharifvccup.ir/), [Sharif University of Technology](http://www.en.sharif.edu/), Tehran, 2017 (CommentMiner)
 * Certificate of Attendance at __Deep Learning Summer School__ from [Association for Computing Machinery (ACM) of University of Tehran](http://acm.ut.ac.ir/acm), 2018
 * Member of [Scientific Association and Olympiad Affairs](http://sao-aut.ir/?lang=en) of [Amirkabir University of Technology](http://aut.ac.ir/aut/), 2015
 * Ranked in top __0.2__% place among all applicants for the University Entrance Nationwide Exam (Approximately __230000__ applicants) in Math. and Eng., Iran, 2014
