@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 __B. Sc. Project__
+------
 * Implementation of a Convolutional and a Pooling Layer of a CNN on FPGA
  * Venue: [Dept. of Computer Engineering and Information Technology](http://ceit.aut.ac.ir/autcms/home.htm?depurl=computer-engineering&lang=en), [Amirkabir University of Technology](http://aut.ac.ir/aut/)
  * Description: I worked on accelerating main functions of CNN's using FPGA on a ZYBO board. In this research, I implemented the convolutional and the max pooling functions using [Xilinx](https://www.xilinx.com/) Vivado High-Level Synthesis and ran this project on a ZYBO SoC board. This design acheived up to 30 times faster throughput relative to the software code on a CPU.
