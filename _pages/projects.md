@@ -15,10 +15,6 @@ __B. Sc. Project__
  
 Projects Relevant to My Fields of Interest
 ------
-* Persian Short-Text Classification (NN ver.)
-  * Venue: CommentMiner
-  * Description: Implemented using a CNN network to extract the features from embedded presentation vectors of Persian text and a MLP network to classify them, on different datasets: Quiz of King's questions, Instagram comments about a persian series, (Python).
-
 * Multithreaded Persian Short-Text Classification
   * Venue: CommentMiner
   * Description: Implemented using two different algorithms: MaxEnt and Naive Bayes, on the datasets mentioned above with the accuracy of 70%, (Java).
