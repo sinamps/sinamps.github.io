@@ -6,11 +6,12 @@ author_profile: true
 ---
 
 * E-mail:<br>sinamahdipour@yahoo.com
-* Academic E-mail:<br>sinamahdipour@aut.ac.ir
+* Academic E-mail:<br>mahdipou@unlv.nevada.edu<br>sinamahdipour@aut.ac.ir
 
 
 * Address:
-  <br> Dept. Computer Engineering
-  <br> Amirkabir University of Technology
-  <br> No. 424, Hafez Ave.
-  <br> 15875-4413, Tehran, Iran
+  <br> Department of Computer Science
+  <br> Howard R. Hughes College of Engineering
+  <br> University of Nevada, Las Vegas
+  <br> 4505 S. Maryland Parkway
+  <br> 89154, Las Vegas, NV, USA
