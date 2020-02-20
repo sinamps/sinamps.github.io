@@ -8,7 +8,7 @@ date: 2018-09-01
 location: "Tehran, Iran"
 ---
 
-I am a Teacher Assistant of Embedded and Real-Time Systems course under supervision of Dr. Hamed Farbeh during the Fall semester of 2018.
+Teacher Assistant of Embedded and Real-Time Systems course taught by Dr. Hamed Farbeh Fall 2018.
 
 * Duties included:
   * Holding TA classes
