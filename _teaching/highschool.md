@@ -1,3 +1,4 @@
+<!---
 ---
 title: "Teacher"
 collection: teaching
@@ -14,3 +15,4 @@ I was a teacher of Calculus 3 and Chemistry 3 courses at the highschool I gradua
   * Holding classes to teach students calculus
   * Designing assignments
   * Grading students' tests and assignments
+-->
