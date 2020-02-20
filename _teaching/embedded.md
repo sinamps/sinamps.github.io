@@ -8,7 +8,7 @@ date: 2018-09-01
 location: "Tehran, Iran"
 ---
 
-Embedded and Real-Time Systems course taught by Dr. Hamed Farbeh Fall 2018.
+Embedded and Real-Time Systems course taught by Dr. Hamed Farbeh, Fall 2018.
 
 * Duties included:
   * Holding TA classes
