@@ -11,6 +11,8 @@ redirect_from:
 
 [The PDF version of my CV is available here.](https://sinamahdipour.github.io/files/CV_Sina_Mahdipour_Saravani.pdf)
 
+<---!
+
 Education
 ======
 * B.S. in Computer Engineering, [Amirkabir University of Technology](http://aut.ac.ir/aut/), 2014-2019
@@ -84,4 +86,4 @@ Extra-curricular Activities
 * Member of Students Council of the Computer Engineering Department of Amirkabir University of Technology
   * We hold different programs for different occasions like [Nowruz](https://en.wikipedia.org/wiki/Nowruz), [Yalda Night](https://en.wikipedia.org/wiki/Yald%C4%81_Night), etc.
 
-
+--->
