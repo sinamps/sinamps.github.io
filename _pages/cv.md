@@ -11,7 +11,7 @@ redirect_from:
 
 [The PDF version of my CV is available here.](https://sinamahdipour.github.io/files/CV_Sina_Mahdipour_Saravani.pdf)
 
-!!!
+<!---
 
 Education
 ======
@@ -85,5 +85,4 @@ Extra-curricular Activities
   * Pouyesh is the student magazine of the guild council of the Computer Engineering Department of Amirkabir University of Technology. 
 * Member of Students Council of the Computer Engineering Department of Amirkabir University of Technology
   * We hold different programs for different occasions like [Nowruz](https://en.wikipedia.org/wiki/Nowruz), [Yalda Night](https://en.wikipedia.org/wiki/Yald%C4%81_Night), etc.
-
-!!!
+-->
