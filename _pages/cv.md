@@ -11,13 +11,6 @@ redirect_from:
 
 [The PDF version of my CV is available here.](https://sinamahdipour.github.io/files/CV_Sina_Mahdipour_Saravani.pdf)
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-```
-
 <!---
 
 Education
