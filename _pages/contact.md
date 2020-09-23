@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-* E-mail:<br>sinamahdipour [at_sign] gmail.com
+* E-mail:<br>sinamahdipour [at_sign] yahoo.com
 * Academic E-mail:<br>
 
 
