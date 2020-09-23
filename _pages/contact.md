@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-* E-mail:<br>Replace \$ with described symbol in the following:<br>sina \$dot mp \$dot ns \$at_sign gmail
+* E-mail:<br>Replace [--] with described symbol in the following:<br>sina [dot] mp [dot] ns [at_sign] gmail.com
 * Academic E-mail:<br>
 
 
