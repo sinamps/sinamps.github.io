@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * E-mail:<br>sinamahdipour [at_sign] yahoo.com
-* Academic E-mail:<br>
+* Academic E-mail:<br>[first name] mps [at_sign] colostate.edu
 
 
 * Address:
