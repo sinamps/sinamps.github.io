@@ -1,5 +1,5 @@
 ---
-title: "Teacher Assistant"
+title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/embedded
