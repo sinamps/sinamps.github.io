@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 {% include base_path %}
+This page has not been updated recently. Check [Rays Cyber Lab website](https://rayscyberlab.org) for current projects.
+
+
 __B. Sc. Project__
 ------
 * Implementation of a Convolutional and a Pooling Layer of a CNN on FPGA
