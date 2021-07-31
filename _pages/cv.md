@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Please click HERE to see my CV.](https://sinamahdipour.github.io/files/CV_Sina_Mahdipour_Saravani.pdf)
+[Please click HERE to see my CV.](https://sinamps.github.io/files/CV_Sina_Mahdipour_Saravani.pdf)
 
 <!---
 
