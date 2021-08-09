@@ -14,7 +14,7 @@ __B. Sc. Project__
 * Implementation of a Convolutional and a Pooling Layer of a CNN on FPGA
   * Venue: [Dept. of Computer Engineering and Information Technology](http://ceit.aut.ac.ir/autcms/home.htm?depurl=computer-engineering&lang=en), [Amirkabir University of Technology](http://aut.ac.ir/aut/)
   * Description: In this research, I implemented the convolutional and the max pooling functions of CNN's using [Xilinx](https://www.xilinx.com/) Vivado High-Level Synthesis and ran this project on a ZYBO SoC board. This design acheived up to 30 times faster throughput relative to the software code on a CPU.
-  * Notes: The English abstract is available [here](https://sinamahdipour.github.io/files/English%20Abstract.pdf). My [dissertation](https://sinamps.github.io/files/Sina_Mahdipour_Report1.pdf) and the [presentation slides](https://sinamps.github.io/files/Slides.pptx) are available in Persian.
+  * Notes: The English abstract is available [here](https://sinamps.github.io/files/English%20Abstract.pdf). My [dissertation](https://sinamps.github.io/files/Sina_Mahdipour_Report1.pdf) and the [presentation slides](https://sinamps.github.io/files/Slides.pptx) are available in Persian.
  
 Projects Relevant to My Fields of Interest
 ------
