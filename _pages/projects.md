@@ -27,7 +27,7 @@ __B. Sc. Project__
   * Description: In this research, I implemented the convolutional and the max pooling functions of CNN's using [Xilinx](https://www.xilinx.com/) Vivado High-Level Synthesis and ran this project on a ZYBO SoC board. This design acheived up to 30 times faster throughput relative to the software code on a CPU.
   * Notes: The English abstract is available [here](https://sinamps.github.io/files/English%20Abstract.pdf). My [dissertation](https://sinamps.github.io/files/Sina_Mahdipour_Report1.pdf) and the [presentation slides](https://sinamps.github.io/files/Slides.pptx) are available in Persian.
  
-ــOther Projectsــ
+__Other Projects__
 ------
 * Multithreaded Persian Short-Text Classification
   * Venue: CommentMiner
