@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-08-05-emnlp-negative-results
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-08-05
-venue: 'EMNLP 2021 Workshop on Insights from Negative Results in NLP'
+venue: 'Under Review'
 paperurl: 'https://insights-workshop.github.io/'
 citation: 'Sina Mahdipour Saravani, Ritwik Banerjee, and Indrakshi Ray. (2021). &quot;An Investigation into the Contribution of Locally Aggregated Descriptors to Figurative Language Identification.&quot; <i>Submitted to EMNLP 2021 Workshop on Insights from Negative Results in NLP</i>.'
 ---
