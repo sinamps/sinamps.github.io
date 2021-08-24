@@ -6,7 +6,17 @@ author_profile: true
 ---
 
 {% include base_path %}
-This page has not been updated recently. Check [Rays Cyber Lab website](https://rayscyberlab.org) for current projects.
+<-- This page has not been updated recently. Check [Rays Cyber Lab website](https://rayscyberlab.org) for current projects. -->
+__Current Projects__
+* Investigating the Application of VLAD to NLP (case study on Irony/Sarcasm Detection in Twitter)
+  * Venue: [Dept. of Computer Science](https://compsci.colostate.edu/), [Colorado State University](https://www.colostate.edu/)
+  * Description: Investigating the application and effectiveness of vector of locallay aggregated descriptors on top of Transformer-based language representation layers; Stuyding Irony/Sarcasm detection as a use case.
+* Social Media Bot Identification using Deepfake Detection
+  * Venue: [Dept. of Computer Science](https://compsci.colostate.edu/), [Colorado State University](https://www.colostate.edu/)
+  * Description: Applying Transformer-based models to detect bot-generated text on a deepfake dataset. 
+* Claim/Counterclaim detection in Social Media
+  * Venue: [Dept. of Computer Science](https://compsci.colostate.edu/), [Colorado State University](https://www.colostate.edu/)
+  * Description: Designing a pipeline to detect claim and counterclaims in social media incorporating Natural Language Inference, Stance Detection, and Claim Detection; In Twitter and Youtube; Working on publishing an annotated COVID-19-related claim/counterclaim dataset from YouTube comments.
 
 
 __B. Sc. Project__
@@ -16,7 +26,7 @@ __B. Sc. Project__
   * Description: In this research, I implemented the convolutional and the max pooling functions of CNN's using [Xilinx](https://www.xilinx.com/) Vivado High-Level Synthesis and ran this project on a ZYBO SoC board. This design acheived up to 30 times faster throughput relative to the software code on a CPU.
   * Notes: The English abstract is available [here](https://sinamps.github.io/files/English%20Abstract.pdf). My [dissertation](https://sinamps.github.io/files/Sina_Mahdipour_Report1.pdf) and the [presentation slides](https://sinamps.github.io/files/Slides.pptx) are available in Persian.
  
-Projects Relevant to My Fields of Interest
+Other Projects
 ------
 * Multithreaded Persian Short-Text Classification
   * Venue: CommentMiner
