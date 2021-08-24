@@ -6,7 +6,7 @@ excerpt: 'This paper is submitted to [International Conference on Information Sy
 date: 2021-07-31
 venue: 'Under Review'
 paperurl: 'https://www.iitp.ac.in/~iciss2021/'
-citation: 'Sina Mahdipour Saravani, Indrajit Ray, Indrakshi Ray. (2021). &quot;Social Media Bot Identification using Deepfake Text Detection.&quot; <i>Submitted to ICISS</i>. 1(2).'
+citation: 'Sina Mahdipour Saravani, Indrajit Ray, Indrakshi Ray. (2021). &quot;Social Media Bot Identification using Deepfake Text Detection.&quot; <i>Submitted to International Conference on Information Systems Security</i>.'
 ---
 <!--This paper is about the number 2. The number 3 is left for future work.-->
 
