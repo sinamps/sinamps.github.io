@@ -221,7 +221,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: false
+      share: true
       comments: true
   # _portfolio
   - scope:
