@@ -68,7 +68,7 @@ Some of my other projects grouped by their language
 * Java: (Academic Course Projects)
   * Re-implemenation of [Robokill Game](https://www.silvergames.com/en/robokill-trainer)<br/>
   <figure><img src="https://i1.silvergames.com/screenshots/robokill-trainer/2_gameplay-shooting.jpg" alt="Robokill game image" style="width:70%; float:right">
-  <figcaption>Robokill gameplay image taken from [SilverGames](https://i1.silvergames.com/screenshots/robokill-trainer/2_gameplay-shooting.jpg)</figcaption></figure>
+  <figcaption>Robokill gameplay image taken from <a href="https://i1.silvergames.com/screenshots/robokill-trainer/2_gameplay-shooting.jpg">SilverGames</a></figcaption></figure>
 <!-- <img src='/images/robokill.jpg'> -->
   * Internet Messanger (with GUI design)
   * Internet Browser with the support for PHP and CSS using JxBrowser library
