@@ -66,7 +66,12 @@ Some of my other projects grouped by their language
 * Python:
   * Multilayer Perceptron classifier with back propagation using pure python to classify 3 types of seeds
 * Java: (Academic Course Projects)
-  * Re-implemenation of [Robokill Game](https://www.crazygames.com/game/robokill-2)<br/><img src='/images/robokill.jpg'>
+  * Re-implemenation of [Robokill Game](https://www.silvergames.com/en/robokill-trainer)<br/>
+  <figure>
+  <img src="/images/robokill.jpg" alt="Robokill game image">
+  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+</figure>
+<!-- <img src='/images/robokill.jpg'> -->
   * Internet Messanger (with GUI design)
   * Internet Browser with the support for PHP and CSS using JxBrowser library
   * Notes Manager
