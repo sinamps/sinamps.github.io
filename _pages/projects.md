@@ -67,7 +67,7 @@ Some of my other projects grouped by their language
   * Multilayer Perceptron classifier with back propagation using pure python to classify 3 types of seeds
 * Java: 
   * Re-implemenation of [Robokill Game](https://www.silvergames.com/en/robokill-trainer)<br/>
-  <figure style="width:70%; margin-left:38px; margin-top:10px;margin-bottom:10px;"><img src="https://i1.silvergames.com/screenshots/robokill-trainer/2_gameplay-shooting.jpg" alt="Robokill game image">
+  <figure style="width:70%; margin-left:40px; margin-top:10px;margin-bottom:10px;"><img src="https://i1.silvergames.com/screenshots/robokill-trainer/2_gameplay-shooting.jpg" alt="Robokill game image">
   <figcaption>Robokill gameplay image taken from <a href="https://i1.silvergames.com/screenshots/robokill-trainer/2_gameplay-shooting.jpg">SilverGames</a></figcaption></figure>
 <!-- <img src='/images/robokill.jpg'> -->
   * Internet Messanger (with GUI design)
