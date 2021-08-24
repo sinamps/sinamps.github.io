@@ -2,7 +2,7 @@
 title: "Social Media Bot Identification using Deepfake Text Detection"
 collection: publications
 permalink: /publication/2021-07-31-bot-detection
-excerpt: ''
+excerpt: 'This paper is submitted to [International Conference on Information Systems Security (ICISS 2021)](https://www.iitp.ac.in/~iciss2021/) for review.'
 date: 2021-07-31
 venue: 'Under Review'
 paperurl: 'https://www.iitp.ac.in/~iciss2021/'
