@@ -12,7 +12,7 @@ __Current Projects__
 ------
 * Investigating the Application of VLAD to NLP (case study on Irony/Sarcasm Detection in Twitter)
   * Venue: [Dept. of Computer Science](https://compsci.colostate.edu/), [Colorado State University](https://www.colostate.edu/)
-  * Description: Investigating the application and effectiveness of vector of locallay aggregated descriptors on top of Transformer-based language representation layers; Stuyding Irony/Sarcasm detection as a use case.
+  * Description: Investigating the application and effectiveness of vector of locally aggregated descriptors on top of Transformer-based language representation layers; Stuyding Irony/Sarcasm detection as a use case.
 * Social Media Bot Identification using Deepfake Text Detection
   * Venue: [Dept. of Computer Science](https://compsci.colostate.edu/), [Colorado State University](https://www.colostate.edu/)
   * Description: Applying Transformer-based models to detect bot-generated text on a deepfake dataset. 
