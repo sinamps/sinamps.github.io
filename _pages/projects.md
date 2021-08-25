@@ -61,7 +61,7 @@ __Other Projects__
   * Venue: [Amirkabir University of Technology](http://aut.ac.ir/aut/)
   * Description: Implemented as the course project to find the best route among 24 random cities, (Matlab).
 
-Some of my other projects grouped by their language
+More projects grouped by their PL:
 ------
 * Python:
   * Multilayer Perceptron classifier with back propagation using pure python to classify 3 types of seeds
