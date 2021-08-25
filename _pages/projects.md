@@ -29,6 +29,9 @@ __B. Sc. Project__
  
 __Other Projects__
 ------
+* Named Entity Recognition for Persian Language
+  * Venue: [Dept. of Computer Science](https://www.unlv.edu/cs), [University of Nevada, Las Vegas](https://www.unlv.edu/)
+  * Description: Implemented using biLSTM-CRF architectures for Persian language which is a low resource langugae.
 * Multithreaded Persian Short-Text Classification
   * Venue: CommentMiner
   * Description: Implemented using two different algorithms: MaxEnt and Naive Bayes, on the datasets mentioned above with the accuracy of 70%, (Java).
