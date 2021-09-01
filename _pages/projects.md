@@ -32,6 +32,12 @@ __Other Projects__
 * Named Entity Recognition for Persian Language
   * Venue: [Dept. of Computer Science](https://www.unlv.edu/cs), [University of Nevada, Las Vegas](https://www.unlv.edu/)
   * Description: Implemented using biLSTM-CRF architectures for Persian language which is a low resource langugae.
+
+* Activity Recognition with Wearable Sensor Dataset in Spark Platform
+  * Venue: [Dept. of Computer Science](https://www.unlv.edu/cs), [University of Nevada, Las Vegas](https://www.unlv.edu/)
+  * Description: Implemented scalable classification solutions (Multilayer Perceptron Network, LogisticRegression, and Decision Tree) using Spark libraries for motion data of elderly peoplein a room.
+  * Project report manuscript is available [here](https://github.com/sinamps/activity_detection/blob/master/Project_Report_Sina_Mahdipour_Saravani.pdf)
+
 * Multithreaded Persian Short-Text Classification
   * Venue: CommentMiner
   * Description: Implemented using two different algorithms: MaxEnt and Naive Bayes, on the datasets mentioned above with the accuracy of 70%, (Java).
