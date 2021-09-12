@@ -19,6 +19,9 @@ __Current Projects__
 * Claim/Counterclaim detection in Social Media
   * Venue: [Dept. of Computer Science](https://compsci.colostate.edu/), [Colorado State University](https://www.colostate.edu/)
   * Description: Designing a pipeline to detect claim and counterclaims in social media incorporating Natural Language Inference, Stance Detection, and Claim Detection; In Twitter and Youtube; Working on publishing an annotated COVID-19-related claim/counterclaim dataset from YouTube comments.
+* Automatic Access Control Policy Extraction from Natural Language Requirement Documents
+  * Venue: [Dept. of Computer Science](https://compsci.colostate.edu/), [Colorado State University](https://www.colostate.edu/)
+  * Description: Currently writing a proposal for this project. We aim to use a transformer-based semantic role labeling model to extract policy information from natural language text and translate them to Next Generation Access Control (NGAC) graph representations.
 
 __B. Sc. Project__
 ------
