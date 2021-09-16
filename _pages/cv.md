@@ -17,6 +17,16 @@ redirect_from:
 <br>
 <br>
 <br>
+**Extra-curricular Activities**
+------
+* Member of [Scientific Association and Olympiad Affairs](http://sao-aut.ir/?lang=en) of [Amirkabir University of Technology](http://aut.ac.ir/aut/), 2015
+* Conductor of 7th Linux Festival, 2015, [Amirkabir Linux Festival](http://www.linuxfest.ir/), Tehran, Iran 
+  * Linux Festival is a 2-day program with different presentations, contests and workshops about Linux.
+* Designer and Editor of Pouyesh Magazine , Amirkabir University of Technology
+  * Pouyesh is the student magazine of the guild council of the Computer Engineering Department of Amirkabir University of Technology. 
+* Member of Students Council of the Computer Engineering Department of Amirkabir University of Technology
+  * We held different programs for different occasions like [Nowruz](https://en.wikipedia.org/wiki/Nowruz), [Yalda Night](https://en.wikipedia.org/wiki/Yald%C4%81_Night), etc.
+
 **Skills**
 ------
 * Programming: Python, Java, C/C++, C#, VHDL, Verilog
@@ -28,16 +38,6 @@ redirect_from:
 * IDEs: PyCharm, Microsoft Visual Studio, IntelliJ IDEA, PyCharm, Code::Blocks, NetBeans, Eclipse, Android Studio	
 * Operating System: Linux, Windows
 * Others: LaTex, Docker, Adobe InDesign, Adobe Photoshop, Microsoft Word, Microsoft Excel, Microsoft PowerPoint
-
-**Extra-curricular Activities**
-------
-* Member of [Scientific Association and Olympiad Affairs](http://sao-aut.ir/?lang=en) of [Amirkabir University of Technology](http://aut.ac.ir/aut/), 2015
-* Conductor of 7th Linux Festival, 2015, [Amirkabir Linux Festival](http://www.linuxfest.ir/), Tehran, Iran 
-  * Linux Festival is a 2-day program with different presentations, contests and workshops about Linux.
-* Designer and Editor of Pouyesh Magazine , Amirkabir University of Technology
-  * Pouyesh is the student magazine of the guild council of the Computer Engineering Department of Amirkabir University of Technology. 
-* Member of Students Council of the Computer Engineering Department of Amirkabir University of Technology
-  * We held different programs for different occasions like [Nowruz](https://en.wikipedia.org/wiki/Nowruz), [Yalda Night](https://en.wikipedia.org/wiki/Yald%C4%81_Night), etc.
 
 <!---
 
