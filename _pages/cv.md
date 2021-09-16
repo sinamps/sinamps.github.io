@@ -32,10 +32,10 @@ The PDF version of CV is available here:<br>
 ------
 * Programming: Python, Java, C/C++, C#, VHDL, Verilog
 * Toolkits: PyTorch, Keras, TensorFlow, Hugging Face Transformers, MALLET, Stanford NLP, polyglot, NLTK, OpenMP, CUDA
-* Web Programming:
-  * Familiar with: HTML, CSS, JavaScript, JQuery, NodeJS
 * Circuits, Simulation and Engineering Software: Matlab, PSpice, HSpice, Xilinx ISE, Model Sim SE, Xilinx Vivado, Design Vision, Quartus, Altium Designer, CodeVision, Atmel Studio, Proteus
 * Scripting: Bash, Matlab
+* * Web Programming:
+  * Familiar with: HTML, CSS, JavaScript, JQuery, NodeJS
 * IDEs: PyCharm, Microsoft Visual Studio, IntelliJ IDEA, PyCharm, Code::Blocks, NetBeans, Eclipse, Android Studio	
 * Operating System: Linux, Windows
 * Others: LaTex, Docker, Adobe InDesign, Adobe Photoshop, Microsoft Word, Microsoft Excel, Microsoft PowerPoint
