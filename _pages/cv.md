@@ -16,6 +16,7 @@ redirect_from:
 <br>
 <br>
 Skills
+==
 * Programming: Python, Java, C/C++, C#, VHDL, Verilog
 * Toolkits: PyTorch, Keras, TensorFlow, Hugging Face Transformers, MALLET, Stanford NLP, polyglot, NLTK, OpenMP, CUDA
 * Web Programming:
