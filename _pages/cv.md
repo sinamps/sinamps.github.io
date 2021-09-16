@@ -18,6 +18,7 @@ redirect_from:
 <br>
 <br>
 **Skills**
+------
 * Programming: Python, Java, C/C++, C#, VHDL, Verilog
 * Toolkits: PyTorch, Keras, TensorFlow, Hugging Face Transformers, MALLET, Stanford NLP, polyglot, NLTK, OpenMP, CUDA
 * Web Programming:
@@ -29,6 +30,7 @@ redirect_from:
 * Others: LaTex, Docker, Adobe InDesign, Adobe Photoshop, Microsoft Word, Microsoft Excel, Microsoft PowerPoint
 
 **Extra-curricular Activities**
+------
 * Member of [Scientific Association and Olympiad Affairs](http://sao-aut.ir/?lang=en) of [Amirkabir University of Technology](http://aut.ac.ir/aut/), 2015
 * Conductor of 7th Linux Festival, 2015, [Amirkabir Linux Festival](http://www.linuxfest.ir/), Tehran, Iran 
   * Linux Festival is a 2-day program with different presentations, contests and workshops about Linux.
