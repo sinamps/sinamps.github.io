@@ -22,6 +22,9 @@ __Current Projects__
 * Automatic Access Control Policy Extraction from Natural Language Requirement Documents
   * Venue: [Dept. of Computer Science](https://compsci.colostate.edu/), [Colorado State University](https://www.colostate.edu/)
   * Description: Currently writing a proposal for this project. We aim to use a transformer-based semantic role labeling model to extract policy information from natural language text and translate them to Next Generation Access Control (NGAC) graph representations.
+* Machine Translation for Similar Low-Resource Language Pairs with Loan Words
+  * Venue: [Dept. of Computer Science](https://compsci.colostate.edu/), [Colorado State University](https://www.colostate.edu/)
+  * Description: Currently studying the potential benefit of using load words in similar languages to incorporate that knowledge into a machine translation framework.
 
 __B. Sc. Project__
 ------
@@ -44,6 +47,10 @@ __Other Projects__
 * Multithreaded Persian Short-Text Classification
   * Venue: CommentMiner
   * Description: Implemented using two different algorithms: MaxEnt and Naive Bayes, on the datasets mentioned above with the accuracy of 70%, (Java).
+
+* Key-phrase Extraction on Persian Documents
+  * Venue: [Dept. of Computer Engineering](http://ce.sharif.edu/)[Sharif University of Technology](http://www.en.sharif.edu/)
+  * Description: Literature review was carried out on KP-Miner, TF-IDF, WINGNUS, Single Rank, KEA, Topic Rank and Salience Rank methods. We used Inspec and 500N datasets to test these methods and then worked on Salience Rank model on a Persian news dataset.
 
 * Telegram Chat-bot for Automatic Question Answering
   * Venue: CommentMiner
