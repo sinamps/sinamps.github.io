@@ -17,6 +17,7 @@ redirect_from:
 <br>
 <br>
 <br>
+
 **Extra-curricular Activities**
 ------
 * Member of [Scientific Association and Olympiad Affairs](http://sao-aut.ir/?lang=en) of [Amirkabir University of Technology](http://aut.ac.ir/aut/), 2015
