@@ -11,7 +11,7 @@ redirect_from:
 
 <br>
 The PDF version of CV is available here:<br>
-[Please click HERE to see my CV.](https://sinamps.github.io/files/CV_Sina_Mahdipour_Saravani.pdf)
+[Please click HERE to see my CV.](https://sinamps.github.io/files/CV_Sina_Mahdipour_Saravani_sep21.pdf)
 
 <br>
 <br>
