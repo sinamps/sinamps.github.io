@@ -49,7 +49,7 @@ __Other Projects__
   * Description: Implemented using two different algorithms: MaxEnt and Naive Bayes, on the datasets mentioned above with the accuracy of 70%, (Java).
 
 * Key-phrase Extraction on Persian Documents
-  * Venue: [Dept. of Computer Engineering](http://ce.sharif.edu/)[Sharif University of Technology](http://www.en.sharif.edu/)
+  * Venue: [Dept. of Computer Engineering](http://ce.sharif.edu/), [Sharif University of Technology](http://www.en.sharif.edu/)
   * Description: Literature review was carried out on KP-Miner, TF-IDF, WINGNUS, Single Rank, KEA, Topic Rank and Salience Rank methods. We used Inspec and 500N datasets to test these methods and then worked on Salience Rank model on a Persian news dataset.
 
 * Telegram Chat-bot for Automatic Question Answering
