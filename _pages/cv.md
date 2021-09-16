@@ -10,13 +10,14 @@ redirect_from:
 {% include base_path %}
 
 <br>
+<br>
 [Please click HERE to see my CV.](https://sinamps.github.io/files/CV_Sina_Mahdipour_Saravani.pdf)
 
 <br>
 <br>
 <br>
 <br>
-## Skills
+**Skills**
 * Programming: Python, Java, C/C++, C#, VHDL, Verilog
 * Toolkits: PyTorch, Keras, TensorFlow, Hugging Face Transformers, MALLET, Stanford NLP, polyglot, NLTK, OpenMP, CUDA
 * Web Programming:
