@@ -34,7 +34,7 @@ Extra-curricular Activities
 * Designer and Editor of Pouyesh Magazine , Amirkabir University of Technology
   * Pouyesh is the student magazine of the guild council of the Computer Engineering Department of Amirkabir University of Technology. 
 * Member of Students Council of the Computer Engineering Department of Amirkabir University of Technology
-  * We hold different programs for different occasions like [Nowruz](https://en.wikipedia.org/wiki/Nowruz), [Yalda Night](https://en.wikipedia.org/wiki/Yald%C4%81_Night), etc.
+  * We held different programs for different occasions like [Nowruz](https://en.wikipedia.org/wiki/Nowruz), [Yalda Night](https://en.wikipedia.org/wiki/Yald%C4%81_Night), etc.
 
 <!---
 
