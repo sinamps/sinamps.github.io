@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-* E-mail:<br>sina.mpsaravani [at_sign] gmail.com
+* E-mail:<br>[firstname].mpsaravani [at_sign] gmail.com
 * Academic E-mail:<br>[first name] mps [at_sign] colostate.edu
 
 
