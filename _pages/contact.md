@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * E-mail:<br>[firstname].mpsaravani [at_sign] gmail.com
-* Academic E-mail:<br>[firstname].mahdipoursaravani [at_sign] utah.edu
+* Academic E-mail:<br>[firstname] [at_sign] cs.utah.edu
 
 
 * Address:
