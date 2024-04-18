@@ -7,8 +7,12 @@ author_profile: true
 
 {% include base_path %}
 <!-- This page has not been updated recently. Check [Rays Cyber Lab website](https://rayscyberlab.org) for current projects. -->
+------
+__This page is NOT being updated and only archives older projects.__
+------
 
-__Current Projects__
+
+__Projects up to 2022__
 ------
 * Investigating the Application of VLAD to NLP (case study on Irony/Sarcasm Detection in Twitter)
   * Venue: [Dept. of Computer Science](https://compsci.colostate.edu/), [Colorado State University](https://www.colostate.edu/)
