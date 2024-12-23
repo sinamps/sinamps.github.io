@@ -1,7 +1,7 @@
 ---
 title: "Accelerated Auto-Tuning of GPU Kernels for Tensor Computations"
 collection: publications
-permalink: /publication/af-ds-autotuning
+permalink: /publication/00-af-ds-autotuning
 excerpt: 'In the proceedings of [the 38th ACM International Conference on Supercomputing, ICS 2024, Kyoto, Japan, June 04–07, 2024]([https://www.icqe22.org/](https://ics2024.github.io/)).'
 date: 2024-05-30
 venue: 'the 38th ACM International Conference on Supercomputing'
