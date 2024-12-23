@@ -1,7 +1,7 @@
 ---
 title: "An Investigation into the Contribution of Locally Aggregated Descriptors to Figurative Language Identification"
 collection: publications
-permalink: /publication/2021-08-05-emnlp-negative-results
+permalink: /publication/03-nlp-nextvlad
 excerpt: 'In the proceedings of the second [EMNLP workshop on Insights from Negative Results in NLP, 2021](https://insights-workshop.github.io/).'
 date: 2021-09-05
 venue: 'EMNLP 2021 Workshop on Insights from Negative Results in NLP'
