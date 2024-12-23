@@ -1,7 +1,7 @@
 ---
 title: "A Generalized Method for Automated Multilingual Loanword Detection"
 collection: publications
-permalink: /publication/2022-10-coling
+permalink: /publication/02-loanword-detection
 excerpt: 'In the proceedings of [the 29th International Conference on Computational Linguistics, 2022](https://coling2022.org/).'
 date: 2022-10-30
 venue: '29th International Conference on Computational Linguistics'
