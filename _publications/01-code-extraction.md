@@ -1,7 +1,7 @@
 ---
 title: "Automated Code Extraction from Discussion Board Text Dataset"
 collection: publications
-permalink: /publication/code-extraction
+permalink: /publication/01-code-extraction
 excerpt: 'In the proceedings of [Advances in Quantitative Ethnography: 4th International Conference, ICQE 2022, Copenhagen, Denmark, October 15–19, 2022](https://www.icqe22.org/).'
 date: 2023-04-29
 venue: 'Advances in Quantitative Ethnography: 4th International Conference'
